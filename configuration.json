@@ -1,0 +1,8 @@
+{
+    "token": "token-goes-here",
+    "prefix": "prefix-goes-here",
+    "description": "Basic Discord Bot",
+    "activity-type": "watching",
+    "activity-data": "you code!",
+    "status": "online"
+}
