@@ -30,6 +30,19 @@ async def ping(self, ctx):
   await ctx.respond("pong!", delete_after=3, ephemeral=True)
 ```
 
+## Configuration File
+
+```json
+{
+    "token": "token-goes-here",
+    "prefix": "prefix-goes-here",
+    "description": "Basic Discord Bot",
+    "activity-type": "watching",
+    "activity-data": "you code!",
+    "status": "online"
+}
+```
+
 
 ## Support
 
