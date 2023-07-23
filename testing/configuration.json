@@ -1,8 +1,8 @@
 {
-    "token": "NTIyNDQ2OTI0NTYxOTA3NzE0.Gik0md.q8mhH5ylYSR2Ggak0a9HYIhfsHCqM3ymkC5K7s",
-    "prefix": "-",
+    "token": "token-goes-here",
+    "prefix": "prefix-goes-here",
     "description": "Basic Discord Bot",
-    "activity-type": "listening",
-    "activity-data": "Bruno Mars!",
-    "status": "dnd"
+    "activity-type": "watching",
+    "activity-data": "you code!",
+    "status": "online"
 }
