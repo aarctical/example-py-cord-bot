@@ -48,7 +48,7 @@ async def ping(self, ctx):
 
 Any issues with the bot's function should be reported to [@aarctical](https://www.github.com/aarctical)
 
-[Support Server Discord](https://discord.gg/mTKZynb)
+[Support Server Discord](https://discord.gg/RsRr2J8wws)
 
 
 ## License
